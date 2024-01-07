@@ -21,6 +21,10 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	//implementation 'io.opentelemetry:opentelemetry-api:1.6.1'
+	//implementation 'io.opentelemetry:opentelemetry-sdk:1.6.1'
+	//implementation 'io.opentelemetry.instrumentation:opentelemetry-instrumentation-spring-boot-autoconfigure:1.6.1'
+	//implementation 'io.opentelemetry.exporter:opentelemetry-exporters-jaeger:1.6.1'
 }
 
 tasks.named('test') {
