@@ -53,7 +53,7 @@ Welcome to My Awesome To-Do List Application! This application helps you manage 
 1. Ensure Jaeger is running locally
 2. Access the Jaeger UI at http://localhost:16686 to view traces
 
-### Contributing
+## Contributing
 Feel free to contribute to enhance the features or fix any issues. Follow these steps:
 
 1. Fork the repository.
